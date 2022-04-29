@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 29f247d9eaca63e4c8044884d2621f47
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {instanceID: 0}
+  - selectedSpawnPoint: {instanceID: 0}
+  - menuCamera: {instanceID: 0}
+  - menuUI: {instanceID: 0}
+  - gameUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
